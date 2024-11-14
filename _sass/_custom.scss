@@ -2,6 +2,29 @@
   color: $light-text-color;
 }
 
+/* Glowing h1 on homepage */
+.neon {
+  animation: flicker 24s infinite alternate;
+  color: rgba(232, 233, 201, 0.8);
+}
+
+/* Flickering animation */
+@keyframes flicker {
+
+  0%, 100% {
+
+    text-shadow:
+    0 0 4px #fff,
+    0 0 11px #fff,
+    0 0 18px rgba(232, 233, 201, 0.8);
+  }
+
+  50% {
+    text-shadow:
+    0 0 18px rgba(232, 233, 201, 0.8);
+  }
+}
+
 /* Style header on posts */
 .site-masthead .smol-header {
   font-size: 2em;
