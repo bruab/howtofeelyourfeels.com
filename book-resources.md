@@ -11,4 +11,4 @@ Here are links for the papers cited in the book.
 - A [research paper](https://www.pnas.org/doi/full/10.1073/pnas.1321664111) that maps where people report experiencing emotions in their bodies 
 - The Male Role Norms Inventory—An [online quiz](https://akron.qualtrics.com/jfe/form/SV_2oBbBFGeFFAETOJ) that assesses the extent to which you conform to "male norms" 
 - [Source](https://psycnet.apa.org/record/2008-05664-011) for the claim "among infants aged 7 to 13 months, females are quicker to express emotion, and express it longer than males"
-- [Source](https://link.springer.com/article/10.1007/BF00288079) for the claim 
+- [Source](https://link.springer.com/article/10.1007/BF00288079) for the claim "it's quite common for mothers to speak differently about emotions to their sons compared with their daughters—for example, they're less likely to mention anger _at all_ with girls"
